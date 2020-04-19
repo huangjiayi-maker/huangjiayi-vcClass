@@ -1,0 +1,7 @@
+﻿  Q3View.cpp
+e:\大二第二学期课程学习\visualc++\第七周实验\q3\q3\q3view.cpp(108): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+e:\大二第二学期课程学习\visualc++\第七周实验\q3\q3\q3view.cpp(113): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+e:\大二第二学期课程学习\visualc++\第七周实验\q3\q3\q3view.cpp(116): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+e:\大二第二学期课程学习\visualc++\第七周实验\q3\q3\q3view.cpp(121): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+  Q3.vcxproj -> E:\大二第二学期课程学习\visualc++\第七周实验\Q3\Debug\Q3.exe
+  Q3.vcxproj -> E:\大二第二学期课程学习\visualc++\第七周实验\Q3\Debug\Q3.pdb (Partial PDB)
