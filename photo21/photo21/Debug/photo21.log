@@ -1,0 +1,7 @@
+﻿  photo21Dlg.cpp
+e:\大二第二学期课程学习\visualc++\第九周上课\photo21\photo21\photo21dlg.cpp(162): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\大二第二学期课程学习\visualc++\第九周上课\photo21\photo21\photo21dlg.cpp(163): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\大二第二学期课程学习\visualc++\第九周上课\photo21\photo21\photo21dlg.cpp(167): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\大二第二学期课程学习\visualc++\第九周上课\photo21\photo21\photo21dlg.cpp(175): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  photo21.vcxproj -> E:\大二第二学期课程学习\visualc++\第九周上课\photo21\Debug\photo21.exe
+  photo21.vcxproj -> E:\大二第二学期课程学习\visualc++\第九周上课\photo21\Debug\photo21.pdb (Partial PDB)
