@@ -1,11 +1,11 @@
 
 #include "stdafx.h"
-
-#include"w32.h"
-char*pchar()
-{
-	return "´Ó¾²Ì¬¿âÈ¡µÃµÄ×Ö·û´®";
-}
-int F1::GetA() {
-	return a + 1;
+#include"W32.h"
+int factorial(int n) {
+	int sum = 1;
+	for (int i = n; i > 0; i--)
+	{
+		sum = sum*i;
+	}
+	return sum;
 }

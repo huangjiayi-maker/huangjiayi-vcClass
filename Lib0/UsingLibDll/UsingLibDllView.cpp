@@ -15,8 +15,7 @@
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
-#include"w32.h"
-#include"W32D.h"
+#include"W32.h"
 
 // CUsingLibDllView
 
@@ -53,13 +52,11 @@ void CUsingLibDllView::OnDraw(CDC* pDC)
 	ASSERT_VALID(pDoc);
 	if (!pDoc)
 		return;
+	int sum=factorial(5);
 	CString s;
-	s = CString(pchar());
-	pDC->TextOutW(200, 150, s);//静态数据库
+	s.Format(_T("%d"), sum);
+	pDC->TextOutW(200, 200,s);
 	// TODO: 在此处为本机数据添加绘制代码
-	CString ss;
-	ss.Format(_T("%d,这里是从动态库返回的值。"), GetInt());
-	pDC->TextOutW(200, 200, ss);
 }
 
 
