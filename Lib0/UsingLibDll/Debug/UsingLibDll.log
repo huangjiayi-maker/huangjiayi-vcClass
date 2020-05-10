@@ -1,8 +1,3 @@
-﻿  stdafx.cpp
-  UsingLibDllView.cpp
-  UsingLibDllDoc.cpp
-  UsingLibDll.cpp
-  MainFrm.cpp
-  正在生成代码...
-  UsingLibDll.vcxproj -> E:\vcClasss\Lib0\Debug\UsingLibDll.exe
-  UsingLibDll.vcxproj -> E:\vcClasss\Lib0\Debug\UsingLibDll.pdb (Partial PDB)
+﻿  UsingLibDllView.cpp
+  UsingLibDll.vcxproj -> E:\大二第二学期课程学习\visualc++\05.04第十周\上机实验\Lib0\Debug\UsingLibDll.exe
+  UsingLibDll.vcxproj -> E:\大二第二学期课程学习\visualc++\05.04第十周\上机实验\Lib0\Debug\UsingLibDll.pdb (Partial PDB)
